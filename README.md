@@ -76,7 +76,7 @@
 ## 五、实验结果
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/PiajxSqBRaELcQnCatfx2OLUmQn1DXyeeRKsMHV0FjdVJpZE6t5JkibKN2QXD3dTXib2hUYffG4g58/0)  
 ## 六、编程感想 
-    1. 了解了Java编程中接口的定义方法和特性 
-    2. 基本掌握了接口和抽象类的区别 
-    3. 了解了static final 关键字的使用场景 
-    4. 锻炼了在程序中处理异常的能力
+1. 了解了Java编程中接口的定义方法和特性 
+2. 基本掌握了接口和抽象类的区别 
+3. 了解了static final 关键字的使用场景 
+4. 锻炼了在程序中处理异常的能力
